@@ -31,7 +31,7 @@ USAGE:
 
 
 ARGS:
-    <_start>    	           from start block number
+    <_start>    	         from start block number
     <_end>                       to end block number
     <_node>                      test ethereum blockchain's node url
 ```
